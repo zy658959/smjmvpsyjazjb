@@ -6,5 +6,5 @@ V2Ray 一键安装脚本 for Ubuntu
 
 数码解码，VPS一键安装命令：
 ```bash
-bash /Users/Administrator/Desktop/v2ray_setup.sh --install
+bash <(curl -L https://raw.githubusercontent.com/zy658959/smjmvpsyjazjb/main/v2ray_setup.sh) --install
 ```
